@@ -37,9 +37,11 @@
     <a href="https://github.com/siabang35/github-readme-stats/issues/new/choose">Request Feature</a>
     ·
     <a href="https://github.com/siabang35/github-readme-stats/discussions">Ask Question</a>
+
+    <a href="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>"</a>
+
   </p>
 
 
-<footer>
-<a href="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>"</a>
-</footer>
+
+
