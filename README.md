@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wildan Assyidiq </h1>
-<h3 align="center">A passionate Machine Learning and Web developer from Indonesia</h3>
+<h3 align="center">A passionate AI and Web developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <p align="center">
