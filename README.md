@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Wildan Assyidiq </h1>
+<h3 align="center">A passionate Machine Learning and Web developer from Indonesia</h3>
+<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
@@ -44,7 +48,6 @@
 
 * * *
 
-[![https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss](./powered-by-vercel.svg)](https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss)
 
 Contributions are welcome! &lt;3
 
