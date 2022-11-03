@@ -40,5 +40,6 @@
   </p>
 
 
-
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
+<footer>
+<a href="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>"</a>
+</footer>
