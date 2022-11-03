@@ -38,12 +38,15 @@
     ·
     <a href="https://github.com/siabang35/github-readme-stats/discussions">Ask Question</a>
 
-    <a href="https://twitter.com/intent/follow?screen_name=shields_io">
-        <img src="https://img.shields.io/twitter/follow/shields_io?style=social&logo=twitter"
-            alt="follow on Twitter"></a>
-
+    
   </p>
 
 
+* * *
 
+[![https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss](./powered-by-vercel.svg)](https://vercel.com?utm_source=github_readme_stats_team&utm_campaign=oss)
+
+Contributions are welcome! &lt;3
+
+Made with :heart: and JavaScript.
 
