@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wildan Assyidiq </h1>
-<h2 align="center">A passionate AI and Web developer from Indonesia</h2>
+<h2 align="center"> I Focussed on AI and Web developer, i am from Indonesia</h2>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"><br>
-
+<div>
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
@@ -44,7 +44,7 @@
 
     
   </p>
-
+</div>
 
 * * *
 
