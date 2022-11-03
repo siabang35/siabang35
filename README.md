@@ -38,3 +38,7 @@
     ·
     <a href="https://github.com/siabang35/github-readme-stats/discussions">Ask Question</a>
   </p>
+
+
+
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
