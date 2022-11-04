@@ -2,6 +2,9 @@
 <h2 align="center">I Focussed in AI and Web Developer I'm from Indonesia</h2>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
+
+![DevOps roadmap](devops%20tools.png)
+
 <h3 align="center"><br>
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
