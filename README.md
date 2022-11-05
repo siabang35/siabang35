@@ -71,9 +71,9 @@
 
 ### Coding Profiles:
 
-[<img align="left" alt="Visual Studio Code" height="40px" width="80px" src="https://codeforces.org/s/46116/images/codeforces-logo-with-telegram.png" />][codeforces]
-[<img align="left" alt="Visual Studio Code" height="40px" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" />][leetcode]
-[<img align="left" alt="Visual Studio Code" height="40px" width="80px" src="https://cdn.codechef.com/images/cc-logo-sd.svg" />][codechef]
+[<img align="left" alt="Visual Studio Code" height="40px" width="80px" src="https://codeforces.org/s/46116/images/codeforces-logo-with-telegram.png" />]
+[<img align="left" alt="Visual Studio Code" height="40px" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" />]
+[<img align="left" alt="Visual Studio Code" height="40px" width="80px" src="https://cdn.codechef.com/images/cc-logo-sd.svg" />]
 
 
 [instagram]: https://www.instagram.com/wildanassyidiq142/
