@@ -44,7 +44,7 @@
   </h3>
 </div>
 
-<img display="flex" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"></h2>
+<img align="center" alt="Coding" width="1000" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"></h2>
 
 
 ![DevOps roadmap](devops%20tools.png)
