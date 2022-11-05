@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wildan Assyidiq </h1>
 <h2 align="center">I Focussed in AI and Web Developer I'm from Indonesia</h2>
-<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<h2><img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"></h2>
 
 
 ![DevOps roadmap](devops%20tools.png)
