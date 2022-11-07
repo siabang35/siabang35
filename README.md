@@ -18,7 +18,7 @@
     <a href="https://github.com/siabang35/github-readme-stats/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://github.com/siabang35/github-readme-stats/pulls">
+    <a href="https://github.com/siabang35?tab=repositories">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/siabang35/github-readme-stats?color=0088ff" />
     </a>
     <br />
