@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wildan </h1>
-<h2 align="center">I Focussed in AI and Web Developer I'm from Indonesia</h2>
+<h2 align="center">I Focussed in Machine Learning and Web Developer I'm from Indonesia</h2>
 <h3 align="center"><br>
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
