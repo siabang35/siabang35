@@ -10,7 +10,7 @@
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
     <a href="https://github.com/siabang35?tab=repositories">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/siabang35/github-readme-stats" />
+      <img alt="GitHub Contributors" src="https://github.com/siabang35/Movie-Music/graphs/contributors" />
     </a>
     <a href="https://codecov.io/gh/siabang35/github-readme-stats">
       <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
