@@ -6,7 +6,7 @@
  <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 </p>
   <p align="center">
-    <a href="https://github.com/siabang35/github-readme-stats/actions">
+    <a href="https://github.com/siabang35?tab=repositories">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
     <a href="https://github.com/siabang35/github-readme-stats/graphs/contributors">
