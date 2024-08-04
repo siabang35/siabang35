@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wildan </h1>
 <h2 align="center">I Focussed in Machine Learning and Web Developer I'm from Indonesia</h2>
 
-    <a href="https://github.com/siabang35/Capstone-PlantGenius">
-      
-    <br />
-    <br />
-    <a 
-      <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
-    </a>
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
-      <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
-    </a>
-  </p>
 
   <p align="center">
     <a href="#demo">View Demo</a>
