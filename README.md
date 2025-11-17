@@ -39,7 +39,7 @@
 
 ---
 
-## 🔗 Web3 & Blockchain
+## Web3 & Blockchain
 <p>
   <img src="https://img.shields.io/badge/Move-00A6FF?style=flat&logo=sui&logoColor=white"/>
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/>
