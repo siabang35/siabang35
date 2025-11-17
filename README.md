@@ -7,29 +7,25 @@
 
 ## 🌐 Socials
 <p align="center">
-  <a href="https://instagram.com/wildanassyidiq142"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/wildan-assyidiq-b18304174/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:wildanassyidiq142@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/Wildanssyidiq"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.reddit.com/user/wildanassyidiq142"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white"/></a>
-  <a href="https://medium.com/@Wildanssyidiq"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white"/></a>
+  <a href="https://instagram.com/wildanassyidiq142"><img height="30" src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://www.linkedin.com/in/wildan-assyidiq-b18304174/"><img height="30" src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:wildanassyidiq142@gmail.com"><img height="30" src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://twitter.com/Wildanssyidiq"><img height="30" src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="https://www.reddit.com/user/wildanassyidiq142"><img height="30" src="https://skillicons.dev/icons?i=reddit" /></a>
+  <a href="https://medium.com/@Wildanssyidiq"><img height="30" src="https://skillicons.dev/icons?i=medium" /></a>
 </p>
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 Tech Stack (Clean Version)
 
-## 🤖 Machine Learning & AI
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+### 🤖 Machine Learning & AI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
 </p>
 
-## 🧠 Large Language Models (LLM)
-<p>
+### 🧠 LLM & AI Tools
+<p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude-222222?style=flat&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white"/>
@@ -37,77 +33,48 @@
   <img src="https://img.shields.io/badge/Llama-FFCC00?style=flat&logo=meta&logoColor=000"/>
 </p>
 
----
-
-## Web3 & Blockchain
-<p>
+### 🔗 Web3 & Blockchain
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust" />
   <img src="https://img.shields.io/badge/Move-00A6FF?style=flat&logo=sui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=solidity" />
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white"/>
 </p>
 
----
-
-## 🖥️ Web Development
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+### 🖥️ Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,nodejs,react,tailwind" />
 </p>
 
----
-
-## 📱 Mobile Development
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"/>
+### 📱 Mobile Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android" />
 </p>
 
----
-
-## 🛠️ Data Engineer & ML Ops
-<p>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
+### 🛠️ Data Engineering & MLOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kafka,grafana" />
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black"/>
   <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white"/>
 </p>
 
-### 🕷️ Crawling & Scraping Tools
-<p>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white"/>
+### 🕷️ Crawling & Scraping
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=selenium" />
   <img src="https://img.shields.io/badge/Puppeteer-40B5A4?style=flat&logo=puppeteer&logoColor=white"/>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white"/>
 </p>
 
-### 🔄 ETL Pipeline
-<p><i>Batch • Streaming • Feature Engineering • Automated Training Pipelines</i></p>
-
----
-
-## 🛢️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
+### 🛢️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
 </p>
 
----
-
-## ⚙️ DevOps & Cloud
-<p>
-  <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+### ⚙️ DevOps & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,ubuntu,aws" />
 </p>
 
 ---
