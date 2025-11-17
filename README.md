@@ -1,8 +1,11 @@
-#💫 About Me
+# 💫 About Me
 
-Hi 👋, I'm Wildan
-Software Engineer — Machine Learning, AI, Web3 & LLM Engineering
-From Indonesia 🇮🇩
+<h1 align="center" style="font-size: 3rem;">Hi 👋, I'm <b>Wildan</b></h1>
+<h2 align="center" style="font-weight: 600;">
+  Software Engineer — Machine Learning, AI, Web3 & LLM Engineering
+</h2>
+<p align="center" style="font-size: 1.2rem;">From Indonesia 🇮🇩</p>
+
 
 
 ## 🌐 Socials:
