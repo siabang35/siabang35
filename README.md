@@ -1,5 +1,8 @@
-# 💫 About Me:
-Hi 👋, I'm Wildan<br>Software Engineer — Machine Learning, AI, Web3 & LLM Engineering
+#💫 About Me
+
+Hi 👋, I'm Wildan
+Software Engineer — Machine Learning, AI, Web3 & LLM Engineering
+From Indonesia 🇮🇩
 
 
 ## 🌐 Socials:
