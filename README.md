@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wildan </h1>
-<h2 align="center">I am a Software Engineer I build Machine Learning for AI, Blokchain and Web3 Developer I'm from Indonesia</h2>
+<h2 align="center">I am a Software Engineer I build Machine Learning for AI, & Web3 Developer. I'm from Indonesia</h2>
 
 
   <p align="center">
