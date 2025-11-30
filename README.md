@@ -1,10 +1,22 @@
 
 
-<h1 align="center" style="font-size: 3rem;">Hi 👋, I'm <b>Wildan</b></h1>
-<h2 align="center" style="font-weight: 600;">
-  Software Engineer — Machine Learning, AI, Web3 & LLM Engineering
+<h1 align="center" style="font-size: 3rem; margin: 0;">
+  Hi 👋, I'm <b>Wildan</b>
+</h1>
+
+<h2 align="center" style="font-weight: 600; margin-top: 10px; line-height: 1.4;">
+  Software Engineer — Machine Learning, AI, Web3 & LLM Engineering <br>
+  TensorFlow Certified  
+  <a href="https://www.credential.net/03052cac-6b6c-4bfd-900e-c908639b027d#acc.WFXrSHZA" 
+     style="text-decoration: none; color: #4f46e5; font-weight: 700;">
+    (View Credential)
+  </a>
 </h2>
-<p align="center" style="font-size: 1.2rem;">From Indonesia 🇮🇩</p>
+
+<p align="center" style="font-size: 1.2rem; margin-top: 10px;">
+  From Indonesia 🇮🇩
+</p>
+
 
 
 
