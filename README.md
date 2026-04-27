@@ -5,7 +5,7 @@
 </h1>
 
 <h2 align="center" style="font-weight: 600; margin-top: 10px; line-height: 1.4;">
-  Machine Learning, AI & Web3 Dev  <br>
+  ML Engineer, AI & Web3 Dev  <br>
   TensorFlow Certified  
   <a href="https://www.credential.net/03052cac-6b6c-4bfd-900e-c908639b027d#acc.WFXrSHZA" 
      style="text-decoration: none; color: #4f46e5; font-weight: 700;">
